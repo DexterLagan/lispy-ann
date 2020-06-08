@@ -6,3 +6,7 @@ A NewLISP wrapper for the Genann Artificial Neural Network library, with example
 - example2.lsp - Train a small ANN to the XOR function using random search.<br>
 - example3.lsp - Load a saved ANN to solve the XOR function.<br>
 - example4.lsp (WIP) - Load the IRIS dataset and compute results.
+
+<h2>Downloads</h2>
+Pre-compiled binaries for the 3 first examples can be found here:<br>
+https://github.com/DexterLagan/lispy-ann/releases
